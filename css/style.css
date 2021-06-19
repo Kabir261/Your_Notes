@@ -1,0 +1,32 @@
+html{
+    font-family: 'Merriweather', serif;
+}
+body{
+    position: relative;
+    background: url(img/note3.jpg) no-repeat center center fixed;
+    
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#firstH1{
+    text-align: center;
+    color:white;
+    /* background-color: black; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#secondH1{
+    text-align: center;
+    color:white;
+    /* background-color: black; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card{
+    border: 2px solid black;
+}
